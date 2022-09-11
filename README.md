@@ -1,8 +1,10 @@
-# Welcome to HashLips 👄
+# Welcome to HashLips - Test Improvements 
 
 ![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
+
+As a Learning Exercise I am implementing a few improvements.
 
 To find out more please visit:
 
